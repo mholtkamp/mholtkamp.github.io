@@ -17,8 +17,7 @@
     1 - #B0A848
     2 - #686830
     3 = #202010
-    
-    
+      
 */
 
 @font-face {
@@ -51,7 +50,7 @@ body
     background: #F8E088;
     font-size: 32px;
     overflow: hidden;
-    border-bottom-width: 8pt;
+    border-bottom-width: 8px;
     border-color: #483818;
     border-bottom-style: solid;
 }
@@ -63,7 +62,20 @@ body
     background: #00000000;
     width: 50%;
     margin: auto;
-    margin-top: 4%;
+    margin-top: 64px;
     font-family: BitFont;
     text-align: center
+}
+
+#info
+{
+	width: 300px;
+	border-right-style: solid;
+	border-right-width: 8px;
+	border-color: #483818;
+}
+
+#info a
+{
+	display: block;
 }
