@@ -1,0 +1,53 @@
+---
+title: "Genggle"
+layout: post
+image: https://mholtkamp.github.io/assets/images/Ascent1.PNG
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A homebrew recreation of Peggle for the Genesis."
+category: project
+author: Martin Holtkamp
+externalLink: false
+---
+
+## Info
+
+**Game Name:** Genggle    
+**Platform:** Sega Genesis    
+**Programming Language:** Assembly  
+**Engine:** None  
+**Genre:** Arcade, Casual  
+**Team Size:** 1  
+
+---
+
+## Links
+
+[ROM Download](https://drive.google.com/open?id=0Bz6zRTgs-_fBY2JwZ2Jka2F3Z0k)  
+[Source Code](https://github.com/mholtkamp/gengle)
+
+---
+
+## How To Play
+
+Press Start to begin. Complete each level by clearing all red pegs. Pegs are worth more points depending on how many red pegs are remaining on the board.
+The moving net on the bottom of the screen will catch falling balls, recovering your ball for free.
+Clear all 3 stages to win.
+
+#### Controls
+* **D-Pad Left/Right:** Aim ball.  
+* **A:** Fire ball.
+
+---
+
+## Comments
+
+Genggle is a Sega Genesis homebrew version of Popcap's Peggle. I never actually played the original Peggle, but I did play the World of Warcraft plug-in while I used to wait for queues. It was such a simple game, but the unpredictable bounces made the game so exciting. I thought porting peggle (in its simplest form) would be good game to learn the Genesis hardware.
+
+The Sega Genesis has been the most confusing piece of hardware I've worked with. Talking to the Video Display Processor (VDP) is very awkward. Instead of writing and reading to memory addresses directly, the VDP's address space is essentially hidden and you have to read and write video data by using the Control and Data ports.
+I think this is a common practice for electronics, but it makes a simple read or write much more complicated. Sprites were also rather awkward to use, as they were stored in a linked list structure. Not terribly complicated to use, I just found it strange.
+
+The Genesis hardware might have been complicated, but 68000 assembly was wonderful to work with. Much more versatile than Gameboy assembly.
+
+If I were to go back and add more features to Genggle, I would add moving pegs, a tiled scrolling background, purple pegs (score bonus), and background music. These features would make the game feel less like a homebrew game.

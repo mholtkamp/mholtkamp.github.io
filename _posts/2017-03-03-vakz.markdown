@@ -1,0 +1,45 @@
+---
+title: "Vakz Engine"
+layout: post
+image: https://mholtkamp.github.io/assets/images/Ascent1.PNG
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A cross platform, OpenGL ES 3 compliant game engine."
+category: project
+author: Martin Holtkamp
+externalLink: false
+---
+
+## Features
+
+* Forward rendering with OpenGL ES 3.0  
+* Static mesh rendering (Loads .obj files)
+* Animated mesh rendering (Custom animation format)
+* Diffuse shaded materials
+* Rimlit shaded materials
+* Toon shaded materials 
+* GPU particle systems
+* Directional lighting
+* Point lights
+* TCP Sockets (cross platform)
+* Timers (cross platform) 
+* Blur post processing
+* Oriented Box collision
+* Octree spatial partitioning for colliders and point lights 
+* Screen-space text + image rendering
+
+---
+
+## Links
+
+[Source Code](https://github.com/mholtkamp/vakz/tree/master/project/Windows/Engine)
+
+---
+
+## Comments
+
+Vakz is a project I worked on to better understand 3D graphics. And almost everything in the project is done from scratch. There are no third party libraries used (outside of the OpenGL implementation and the Windows + Android libraries).
+I would never use Vakz to make a commercial game, because it is just lightyears behind other engines such as Unreal Engine, but I learned so much in the process of developing it.
+
+All of the code is written with portability in mind, so there is no use of C++11 and beyond. In fact there is no use of RTTI, templated classes, multiple inheritance, namespaces, or exceptions for the sake of cross compiler friendliness.

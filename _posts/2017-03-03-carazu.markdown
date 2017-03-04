@@ -1,0 +1,60 @@
+---
+title: "Carazu"
+layout: post
+image: https://mholtkamp.github.io/assets/images/Ascent1.PNG
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A homebrew platformer for the original Gameboy."
+category: project
+author: Martin Holtkamp
+externalLink: false
+---
+
+## Info
+
+**Game Name:** Carazu  
+**Platform:** Gameboy  
+**Programming Language:** Assembly  
+**Engine:** None  
+**Genre:** Sidescrolling Platformer  
+**Team Size:** 1  
+
+---
+
+## Links
+
+[Gamejolt Page](http://gamejolt.com/games/carazu/184403)  
+[ROM Download](https://drive.google.com/open?id=0Bz6zRTgs-_fBT250WXdiLU5PRlU)  
+[Source Code](https://github.com/mholtkamp/carazu)
+
+---
+
+## How To Play
+
+Play as Carazu the mouse and explore a fantasy world with spikes and creatures that are trying to kill you. Collect power ups as you progress to give Carazu new abilities!
+
+#### Controls
+* A to jump (mapped to Z on keyboard)
+* B to fire Bass Cannon after finding the Bass Rune (mapped to X on keyboard)
+* D-Pad to move (mapped to arrow keys)
+* Press Up on DPad to go through doors and to proceed to next level
+* Press Enter to continue game after receiving an item.
+
+---
+
+## Comments
+
+Carazu is a platformer I made before entering FIEA to practice my assembly programming. At FIEA we had to learn 68000 assembly so I decided to practice with Gameboy assembly.
+Carazu was developed over the span of 2 months, however the first month was spent mostly learning the Gameboy's hardware. 
+By the end of the first month I had a small single-screen demo where the player could jump and collide with the environment, but that is all.
+
+When I was 6 years old, my parents bought me a Gameboy Pocket, my first gaming console. At that moment I knew I wanted to pursue game development. 
+I was fascinated by the worlds that were created in this little box. Therefore, making a Gameboy game was a very nostalgic and emotional experience.
+Seeing Carazu running on the very same system that my parents had given me 18 years ago gave me chills.
+
+The limited memory and the slow processing speed of the Gameboy made it a challenge to program. For instance, you only have a small window of time every frame to upload data to 
+video RAM. This made map tile streaming very difficult, and it took a lot of optimization to make it work within these time constraints.
+
+Another obstable was sound. Playing music and sounds were not nearly as simple as with a modern game engine. The gameboy uses 4 sound generators, and to create music, you have to program them through code.
+I created a simple engine for playing music, but it had several constraints and it definitely wasn't very efficient memory-wise.
