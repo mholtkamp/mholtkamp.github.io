@@ -1,7 +1,7 @@
 ---
 title: "Ascent"
 layout: post
-image: {{site.url}}/assets/images/Ascent1.png
+image: https://mholtkamp.github.io/assets/images/Ascent1.PNG
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -16,7 +16,7 @@ externalLink: false
 **Game Name:** Ascent  
 **Platform:** Gameboy Advance  
 **Programming Language:** C  
-**Engine:** None
+**Engine:** None  
 **Genre:** Rougelike  
 **Team Size:** 1  
 
@@ -26,6 +26,18 @@ externalLink: false
 
 [ROM Download](https://drive.google.com/open?id=0Bz6zRTgs-_fBdEtpdzdobWdBVFE)  
 [Source Code](https://github.com/mholtkamp/ascent)
+
+---
+
+## How To Play
+
+Make your way through all 5 floors of the dungeon. Destroy all enemies in the room to open the doors leading to connecting rooms.
+
+### Controls
+**D-Pad:** Move
+**L:** Lock movement
+**R:** Strafe
+**A:** Fire bullet
 
 ---
 

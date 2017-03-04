@@ -22,6 +22,12 @@ externalLink: false
 
 ---
 
+## How To Play
+
+If hosting, select the "Host" button under the LAN column. If connecting, select the "Connect" button under the LAN column and then type in the host's IP Address. A player will randomly be chosen to go first. If the "End Turn" button is green on your screen, that means it is currently your turn. Refer to the "How To Play" page within the app to learn the gameplay cycle and to see the special abilities of each card.
+
+---
+
 ## Links
 
 [APK Download for Android 4.1+](https://drive.google.com/open?id=0Bz6zRTgs-_fBY2llYjNvWUZxU0k)  

@@ -1,0 +1,56 @@
+---
+title: "O"
+layout: post
+image: https://mholtkamp.github.io/assets/images/Ascent1.PNG
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A simple, addictive twitch game for mobile platforms."
+category: project
+author: Martin Holtkamp
+externalLink: false
+---
+
+## Info
+
+**Game Name:** O  
+**Platform:** Android  
+**Programming Language:** C#  
+**Engine:** Unity  
+**Genre:** Casual? Twitch? Memory?  
+**Team Size:** 6  
+
+---
+
+## Teammates 
+
+* Charley Choucard (Design)
+* Jerrick Flores (Design)
+* Doug Halley (Art)
+* Connor Hollis (Art)
+* Jackson King (Programming)
+
+---
+
+## Links
+
+[Download Windows](https://drive.google.com/open?id=0Bz6zRTgs-_fBVy1OVEJNYWs5ZWM)  
+[Download Android](https://drive.google.com/open?id=0Bz6zRTgs-_fBMXBOZVJ2UnAta28)   
+
+---
+
+## How To Play
+
+Beat levels by staying alive for 30 seconds. After taking 3 hits of damage, you will fail the level. Tap anywhere on the screen to jump. Avoid touching red segments. After beating all 6 levels, the gauntlet level will be unlocked, where you must beat all 6 stages in one play through. 
+
+---
+
+## Comments
+
+O was produced at FIEA during the Rapid Prototyping class. The theme of the prototyping round was "Mobile Development", so the game needed to be playable on phone or tablet. 
+We spent more time than usual iterating over the design of the game, and it truly paid off. 
+We wanted to identify the core gameplay elements of popular mobile games and incorporate those philosophies into our game.
+
+One of the biggest design choices was the have simple controls. Most popular mobile games include single taps or simple swipe gestures. For our game, we wanted the only control to be a single tap to jump.
+We also designed around having an appealing minimalist art style. A minimalist art style is ideal for small screens.
+To increase replay value, we added an online leaderboard that ranks players based on the health remaining and the number of jumps used to complete a level.

@@ -22,11 +22,22 @@ externalLink: false
 
 ---
 
+## Teammates 
+
+* Michael Reckoff (Design, Production)
+* Michael Vogel (Art)
+* Boo Roseman (Art)
+* Kay Ghering (Art)
+* Travis Fort (Programming)
+
+---
+
 ## Links
 
 [Download Windows 32-bit](https://drive.google.com/open?id=0Bz6zRTgs-_fBeDBjTklFT3doNWs)
 
 ---
+
 
 ## How To Play
 
