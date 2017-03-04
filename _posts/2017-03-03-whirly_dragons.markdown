@@ -1,7 +1,7 @@
 ---
 title: "Whirly Dragons"
 layout: post
-image: https://mholtkamp.github.io/assets/images/Ascent1.png
+image: https://mholtkamp.github.io/assets/images/WhirlyDragons1.PNG
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

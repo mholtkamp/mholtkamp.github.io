@@ -1,7 +1,7 @@
 ---
 title: "Pill Frenzy"
 layout: post
-image: https://mholtkamp.github.io/assets/images/Ascent1.PNG
+image: https://mholtkamp.github.io/assets/images/PillFrenzy2.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

@@ -1,7 +1,7 @@
 ---
 title: "PCG the TCG"
 layout: post
-image: https://mholtkamp.github.io/assets/images/Ascent1.png
+image: https://mholtkamp.github.io/assets/images/PCGtheTCG1.PNG
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -30,6 +30,7 @@ If hosting, select the "Host" button under the LAN column. If connecting, select
 
 ## Links
 
+[Google Play Store Page](https://play.google.com/store/apps/details?id=com.pcg&hl=en)
 [APK Download for Android 4.1+](https://drive.google.com/open?id=0Bz6zRTgs-_fBY2llYjNvWUZxU0k)  
 [Source Code](https://github.com/mholtkamp/pcgtcg)
 
