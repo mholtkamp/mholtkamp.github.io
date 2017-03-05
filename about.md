@@ -26,4 +26,5 @@ Harris Corporation in Palm Bay, Florida. And now, I am pursuing my dream of maki
     <li>Photoshop</li>
     <li>Perforce</li>
     <li>Git</li>
+    <li>Jira</li>
 </ul>
