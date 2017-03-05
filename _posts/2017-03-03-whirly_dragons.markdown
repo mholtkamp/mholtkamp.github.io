@@ -46,11 +46,11 @@ At the menu, use the arrow keys to select whether you would like to host a new g
 As the host, press the "P" key to begin the game after all players have connected.
 
 In-game Controls:
-**Space Bar:** Fire a fireball. If the fireball hits the ball carrier, they will be forced to drop the ball.
-**Left Ctrl:** Stop/Start flying.
-**A/D:** Adjust heading of dragon.
-**W/S:** Adjust pitch of dragon.
-**F:** Pick up/throw the ball.
+* **Space Bar:** Fire a fireball. If the fireball hits the ball carrier, they will be forced to drop the ball.
+* **Left Ctrl:** Stop/Start flying.
+* **A/D:** Adjust heading of dragon.
+* **W/S:** Adjust pitch of dragon.
+* **F:** Pick up/throw the ball.
 
 ---
 
