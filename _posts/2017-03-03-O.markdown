@@ -45,6 +45,12 @@ Beat levels by staying alive for 30 seconds. After taking 3 hits of damage, you 
 
 ---
 
+## Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lPh2vTmyVAQ" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Comments
 
 O was produced at FIEA during the Rapid Prototyping class. The theme of the prototyping round was "Mobile Development", so the game needed to be playable on phone or tablet. 

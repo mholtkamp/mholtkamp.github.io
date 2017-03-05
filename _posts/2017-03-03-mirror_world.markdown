@@ -35,6 +35,12 @@ externalLink: false
 
 ---
 
+## Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Xs0X6cdi68" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Comments
 
 Dustin and I had so much fun with the previous month's game jam, so we decided participate in December's game also. The theme for this month was "The Beginning is the End". Unlike our last game jam, we came up with a rather unique concept for this jam. The player would have to traverse through a level and then pass through a mirror that would replicate the same level that was just traversed, except it would be flipped like a mirror image. Thus, when the player reaches the end of the game, they would be at the mirrored version of the beginning of the game. 

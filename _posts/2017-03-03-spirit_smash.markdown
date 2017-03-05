@@ -42,6 +42,12 @@ Controller(s) required. Win by being the last ghost standing. The more damage yo
 
 ---
 
+## Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DfkYAETW4x8" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Comments
 
 Spirit Smash was created for an assignment in Programming I at FIEA. The game uses a Vakz, a game engine that I had previously made before attending FIEA. Although Vakz is a cross-platform engine, Spirit Smash was developed strictly for Windows, and was not tested on Android.

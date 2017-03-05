@@ -41,6 +41,12 @@ Make your way through all 5 floors of the dungeon. Destroy all enemies in the ro
 
 ---
 
+## Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wdc1Ox9vqig" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Comments
 
 Ascent was the first homebrew game that I worked on and also the first game that I coded entirely in C. During my senior year of college I had been reading the TONC tutorial on Gameboy Advance development on and off whenever I had time. It took a while to understand the concepts and to fully grok the memory map of the Gameboy Advance, but once I had free time I decided to recreate the Binding of Isaac experience on GBA. I thought a Binding of Isaac-inspired game would be a reasonable starting point, as the complexity is simple to start with and can be expanded infinitely whenever I would want to add features to the game.

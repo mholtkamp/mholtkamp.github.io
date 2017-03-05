@@ -35,6 +35,12 @@ externalLink: false
 
 ---
 
+## Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AMhC6J7mAqI" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Comments
 
 Pill Frenzy was a submission to the 2015 November Epic Game Jam, which required our game to fit the theme "Desperate Diseases Require Dangerous Remedies". This was the first game jam I had ever participated in, and I did so alongside my friend and fellow engineer Dustin LaMontagne. This was our first project using Unreal Engine (we had only done some tutorials before this point) so this was a major learning experience for us.

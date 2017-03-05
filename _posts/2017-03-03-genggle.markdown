@@ -41,6 +41,12 @@ Clear all 3 stages to win.
 
 ---
 
+## Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mkqZrGGh9rA" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Comments
 
 Genggle is a Sega Genesis homebrew version of Popcap's Peggle. I never actually played the original Peggle, but I did play the World of Warcraft plug-in while I used to wait for queues. It was such a simple game, but the unpredictable bounces made the game so exciting. I thought porting peggle (in its simplest form) would be good game to learn the Genesis hardware.

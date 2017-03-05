@@ -43,6 +43,12 @@ Play as Carazu the mouse and explore a fantasy world with spikes and creatures t
 
 ---
 
+## Gameplay Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ibYQ6anAu8g" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Comments
 
 Carazu is a platformer I made before entering FIEA to practice my assembly programming. At FIEA we had to learn 68000 assembly so I decided to practice with Gameboy assembly.
